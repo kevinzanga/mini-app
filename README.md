@@ -34,7 +34,7 @@
 
 **🧾 ¿Cómo usar el formulario?**
 
-    Inicia sesión con correo y contraseña, o usa login anónimo.
+    Inicia sesión o registrate con tu correo y contraseña.
     Completa los campos:
         Nombre: obligatorio.
         Edad: debe ser mayor a 0.
@@ -44,7 +44,10 @@
 
 **🛠️ Tecnologías utilizadas**
 
-    El proyecto fue desarrollado utilizando Flutter como framework principal, con Dart como lenguaje de programación. Se integró Firebase Authentication para la gestión de usuarios y sesiones. La interfaz de usuario se construyó utilizando los componentes nativos de     Material UI de Flutter, asegurando una experiencia moderna, fluida y coherente con el diseño de plataformas móviles.
+    El proyecto fue desarrollado utilizando Flutter como framework principal, con Dart como lenguaje de programación. 
+    Se integró Firebase Authentication para la gestión de usuarios y sesiones. La interfaz de usuario se construyó utilizando 
+    los componentes nativos de Material UI de Flutter, asegurando una experiencia moderna, fluida y coherente con el diseño de 
+    plataformas móviles.
 **🚀 Cómo ejecutar el proyecto**
 
 ```bash
