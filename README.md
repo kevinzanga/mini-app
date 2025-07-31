@@ -43,11 +43,11 @@
     Pulsa Cerrar sesión para volver a la pantalla de login.
 
 **🛠️ Tecnologías utilizadas**
-Tecnología 	Uso
-Flutter 	Framework principal
-Dart 	Lenguaje de programación
-FirebaseAuth 	Autenticación
-Material UI 	Interfaz nativa de Flutter
+        Tecnología 	Uso
+        Flutter 	Framework principal
+        Dart 	Lenguaje de programación
+        FirebaseAuth 	Autenticación
+        Material UI 	Interfaz nativa de Flutter
 
 **🚀 Cómo ejecutar el proyecto**
 
