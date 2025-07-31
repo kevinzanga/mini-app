@@ -14,8 +14,7 @@
 **Login Page**
 
 <img src="https://github.com/user-attachments/assets/ac84217c-780c-445a-9e9d-caaaa5c0f0c1" width="300" />
-
-Validación Login
+**Validación Login**
 <img src="https://github.com/user-attachments/assets/359619a1-8e90-4d83-b8df-928f7cd5ba28" width="300" />
 
 Formulario
