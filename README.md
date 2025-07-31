@@ -32,7 +32,6 @@
 <img src="https://github.com/user-attachments/assets/7657cb65-3f23-4d0b-a8e1-dc80f15fb081" width="300" />
 
 
-Diálogo
 🧾 ¿Cómo usar el formulario?
 
     Inicia sesión con correo y contraseña, o usa login anónimo.
@@ -49,6 +48,7 @@ Flutter 	Framework principal
 Dart 	Lenguaje de programación
 FirebaseAuth 	Autenticación
 Material UI 	Interfaz nativa de Flutter
+
 🚀 Cómo ejecutar el proyecto
 
 ```bash
