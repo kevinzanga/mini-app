@@ -27,11 +27,10 @@
 
 <img src="https://github.com/user-attachments/assets/365e61dd-9928-4bcd-8b4a-bead2e26f787" width="300" />
 
+**Diálogo de datos ingresados**
 
+<img src="https://github.com/user-attachments/assets/7657cb65-3f23-4d0b-a8e1-dc80f15fb081" width="300" />
 
-
-Formulario
-Diálogo de datos ingresados
 
 Diálogo
 🧾 ¿Cómo usar el formulario?
