@@ -1,6 +1,7 @@
 📱 Mini App Flutter - Autenticación y Formulario
 
-    Aplicación Flutter que combina autenticación con Firebase y un formulario interactivo. Ideal para quienes comienzan a integrar backend y frontend con buenas prácticas de UI.
+    Aplicación Flutter que combina autenticación con Firebase y un formulario interactivo. 
+    Ideal para quienes comienzan a integrar backend y frontend con buenas prácticas de UI.
 
 🔐 Características
 
@@ -31,7 +32,12 @@
 
 <img src="https://github.com/user-attachments/assets/7657cb65-3f23-4d0b-a8e1-dc80f15fb081" width="300" />
 
+**🧾 ¿Cómo usar el Login?**
 
+    Al iniciar la aplicación, se muestra una pantalla de Login donde el usuario puede autenticarse utilizando su correo electrónico 
+    y contraseña registrados en Firebase. Si las credenciales son válidas, el sistema redirige automáticamente al formulario principal. 
+    En caso de error en el ingreso, se muestra un mensaje indicando el problema.
+    
 **🧾 ¿Cómo usar el formulario?**
 
     Inicia sesión o registrate con tu correo y contraseña.
