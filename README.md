@@ -12,10 +12,10 @@
 🖼️ Capturas de Pantalla
 
 <div align="center">
-
+**Login Page**
 <img src="https://github.com/user-attachments/assets/ac84217c-780c-445a-9e9d-caaaa5c0f0c1" width="300" />
 
-**Login Page**
+
 
 </div>
 Validación Login
