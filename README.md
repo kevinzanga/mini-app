@@ -43,12 +43,7 @@
     Pulsa Cerrar sesión para volver a la pantalla de login.
 
 **🛠️ Tecnologías utilizadas**
-        Tecnología 	Uso
-        Flutter 	Framework principal
-        Dart 	Lenguaje de programación
-        FirebaseAuth 	Autenticación
-        Material UI 	Interfaz nativa de Flutter
-
+ El proyecto fue desarrollado utilizando Flutter como framework principal, con Dart como lenguaje de programación. Se integró Firebase Authentication para la gestión de usuarios y sesiones. La interfaz de usuario se construyó utilizando los componentes nativos de Material UI de Flutter, asegurando una experiencia moderna, fluida y coherente con el diseño de plataformas móviles.
 **🚀 Cómo ejecutar el proyecto**
 
 ```bash
