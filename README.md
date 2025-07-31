@@ -32,7 +32,7 @@
 <img src="https://github.com/user-attachments/assets/7657cb65-3f23-4d0b-a8e1-dc80f15fb081" width="300" />
 
 
-🧾 ¿Cómo usar el formulario?
+**🧾 ¿Cómo usar el formulario?**
 
     Inicia sesión con correo y contraseña, o usa login anónimo.
     Completa los campos:
@@ -42,14 +42,14 @@
     Pulsa Enviar y se mostrará un cuadro de diálogo con los datos.
     Pulsa Cerrar sesión para volver a la pantalla de login.
 
-🛠️ Tecnologías utilizadas
+**🛠️ Tecnologías utilizadas**
 Tecnología 	Uso
 Flutter 	Framework principal
 Dart 	Lenguaje de programación
 FirebaseAuth 	Autenticación
 Material UI 	Interfaz nativa de Flutter
 
-🚀 Cómo ejecutar el proyecto
+**🚀 Cómo ejecutar el proyecto**
 
 ```bash
 1. Clonar el repositorio
